@@ -1,2 +1,2 @@
 # DMREF_Computational_Screening
- High-throughput Computational Screening  of Hydrocarbon Molecules for Long-wavelength Infrared Imaging
+ Here you can find materials for our paper 'High-throughput Computational Screening  of Hydrocarbon Molecules for Long-wavelength Infrared Imaging'
