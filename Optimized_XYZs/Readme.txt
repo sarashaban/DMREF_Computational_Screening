@@ -1,1 +1,1 @@
-
+This directory contains the optimized XYZ coordinates of hydrocarbon molecules, obtained using Gaussian 16 software. It includes two folders: one for hydrocarbons with two to nine carbon atoms and another for hydrocarbons with ten carbon atoms.
