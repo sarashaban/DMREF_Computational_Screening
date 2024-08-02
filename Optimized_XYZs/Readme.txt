@@ -1,1 +1,1 @@
-This directory contains the optimized XYZ coordinates of hydrocarbon molecules, obtained using Gaussian 16 software. It includes two folders: one for hydrocarbons with two to nine carbon atoms and another for hydrocarbons with ten carbon atoms.
+This directory contains the optimized XYZ coordinates of hydrocarbon molecules, obtained using the B3LYP functional and the 6-31g(d,p) basis set in Gaussian 16 software. It includes two folders: one for hydrocarbons with two to nine carbon atoms and another for hydrocarbons with ten carbon atoms.
