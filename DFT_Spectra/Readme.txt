@@ -1,1 +1,1 @@
-
+This directory contains associated files of the broadened molar absorptivity IR spectra of hydrocarbon molecules, using a Lorentzian band shape with a gamma (half-width at half-height) value of 5 cm^(-1).
