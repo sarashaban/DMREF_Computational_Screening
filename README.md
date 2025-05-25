@@ -9,12 +9,4 @@
 
 **Overview**
 
-<p align="center">
-  <img src="assets/Overview-Figure.jpg" alt="Model overview" width="600"/>
-</p>
-
-*Figure: Comonomer design Protocol for organic or sulfur/organic hybrid polymeric materials for
-LWIR imaging application*
-
-
-
+<p align="center"> <img src="assets/Overview-Figure.jpg" alt="Model overview" width="600"/> </p> <p align="center"><em>Figure 1: Computational Protocol for Comonomer Design Targeting Organic or Sulfur/Organic Hybrid Polymeric Materials for LWIR Imaging Applications.</em></p> <br> <p align="center"> <img src="assets/HTS-Workflow-Figure.jpg" alt="HTS workflow" width="600"/> </p> <p align="center"><em>Figure 2: Computational Workflow for Generating the Dataset.</em></p>
